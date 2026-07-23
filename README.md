@@ -1,4 +1,4 @@
-<img width="595" height="407" alt="image" src="https://github.com/user-attachments/assets/08fc9e22-0251-4911-bc4b-ede55cd7e431" />## Hi there 👋
+Hi there 👋
 
 I'm Reza, currently pursuing a Bachelor's degree in Computer Engineering at Shahid Bahonar University of Kerman.
 
